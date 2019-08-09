@@ -1,0 +1,28 @@
+Sriwijaya Air
+17.45
+18.55
+CGK
+JOG
+1h10m
+1078300
+Citilink
+12.45
+13.55
+CGK
+JOG
+1h10m
+1003300
+Garuda Indonesia
+07.55
+09.20
+CGK
+JOG
+1h25m
+1178900
+Batik Air
+05.40
+06.50
+CGK
+JOG
+1h10m
+1023300

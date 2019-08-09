@@ -1,0 +1,21 @@
+Sriwijaya Air
+17.45
+19.00
+CGK
+SOC
+1h15m
+1124500
+Citilink
+11.40
+13.10
+CGK
+SOC
+1h30m
+1047300
+Garuda Indonesia
+14.05
+15.20
+CGK
+SOC
+1h15m
+1227300

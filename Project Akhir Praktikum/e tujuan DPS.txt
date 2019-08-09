@@ -1,0 +1,28 @@
+Sriwijaya Air
+09.50
+12.40
+CGK
+DPS
+1h50m
+1723500
+Citilink
+11.40
+14.40
+CGK
+DPS
+2h0m
+1610000
+Garuda Indonesia
+18.40
+21.35
+CGK
+DPS
+1h55m
+1860900
+Batik Air
+12.30
+15.20
+CGK
+DPS
+1h50m
+1633300

@@ -1,0 +1,28 @@
+Batik Air
+05.45
+06.50
+CGK
+PLM
+1h5m
+1009000
+Garuda Indonesia
+07.35
+08.45
+CGK
+PLM
+1h10m
+1161300
+Citilink
+16.20
+17.30
+CGK
+PLM
+1h10m
+986800
+Sriwijaya Air
+15.50
+16.55
+CGK
+PLM
+1h5m
+1061800
